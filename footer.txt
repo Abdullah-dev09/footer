@@ -1,0 +1,29 @@
+<footer class="footer">
+       <div class="container">
+         <div class="row">
+              <div class="footer-col">
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-snapchat"></i></a>
+                   </div>
+                   <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Battle pass</a></li>
+                    <li><a href="#">watch</a></li>
+                    <li><a href="#">Get Fortnite</a></li>
+                    <li><a href="#">News</a></li>
+                    <li><a href="#">FAQ</a></li>
+                    <li><a href="#">EULA</a></li>
+                    <li><a href="#">Competitive</a></li>
+                    <li><a href="#">V-Buks Card</a></li>
+                    <li><a href="#">Help</a></li>
+                    <li><a href="#">Safety and Security</a></li>
+                    <li><a href="#">Community Rules</a></li>
+                   </ul>
+              </div>
+         </div>
+       </div>
+    </footer>
